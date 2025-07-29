@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anirudh1273
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c language 
+- 🌱 I’m currently learning Flutter and Dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter @Anirudh_1273
 
